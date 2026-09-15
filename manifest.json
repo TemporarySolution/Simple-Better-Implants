@@ -1,0 +1,10 @@
+{
+  "id": "qud_SBI",
+  "loadorder": 99,
+  "title": "{{implanted|Simple Better Implants}}",
+  "description": "Adds second tire versions of base stat implants.",
+  "tags": "Cybernetic",
+  "version": "0.0.1",
+  "author": "Carl The Compressed",
+  "previewImage": "preview.png"
+}

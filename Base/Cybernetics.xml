@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+
+<!-- 
+    TO DO:
+
+-->
+
+<!-- CYBERNETICS -->
+    <object Name="SBI_BionicHands_2" Inherits="BaseCyberneticsEquipment_6point">
+		<part Name="Physics" Weight="5" />
+		<part Name="Description" Short="A whole new pair of hands fabricated from graphene and neutrafoam. Their pylons await engagement." />
+		<part Name="Render" DisplayName="{{Y|bionic hands2}}" Tile="Items/sw_bionichands.bmp" TileColor="&amp;r" DetailColor="C" />
+		<part Name="CyberneticsBaseItem" Slots="Hands" Cost="6" BehaviorDescription="+4 Agility" />
+		<part Name="CyberneticsStatModifier" Stats="Agility:4" />
+	</object>
+
+	<object Name="SBI_BionicArm_2" Inherits="BaseCyberneticsEquipment_6point">
+		<part Name="Physics" Weight="8" />
+		<part Name="Description" Short="A whole new arm fabricated from graphene and neutrafoam. Its pylon awaits engagement." />
+		<part Name="Render" DisplayName="{{Y|bionic arm2}}" Tile="Items/sw_bionicarm.bmp" TileColor="&amp;r" DetailColor="C" />
+		<part Name="CyberneticsBaseItem" Slots="Arm" Cost="6" BehaviorDescription="+4 Strength" />
+		<part Name="CyberneticsStatModifier" Stats="Strength:4" />
+	</object>
+
+	<object Name="SBI_BeautifulVisage_2" Inherits="BaseCyberneticsEquipment_6point">
+		<part Name="Physics" Weight="1" />
+		<part Name="Description" Short="Instructions dictate the reformation of the face into a countenance that arouses latent desires in its onlookers." />
+		<part Name="Render" DisplayName="{{Y|beautiful visage2}}" Tile="Items/sw_beautiful.bmp" ColorString="&amp;C" DetailColor="r" />
+		<part Name="CyberneticsBaseItem" Slots="Face" Cost="6" BehaviorDescription="+4 Ego" />
+		<part Name="CyberneticsStatModifier" Stats="Ego:4" />
+		<part Name="ItemElements" Elements="jewels::4" />
+	</object>
+
+	<object Name="SBI_DopamineSynth_2" Inherits="BaseCyberneticsEquipment_6point">
+		<part Name="Description" Short="The microscopic cartridge synthesizes dopamine at a rapid rate and floods the neural pathways in motivational bliss." />
+		<part Name="Render" DisplayName="{{Y|dopamine synth2}}" Tile="Items/sw_dopamine.bmp" ColorString="&amp;C" DetailColor="r" />
+		<part Name="CyberneticsBaseItem" Slots="Head" Cost="6" BehaviorDescription="+4 Willpower" />
+		<part Name="CyberneticsStatModifier" Stats="Willpower:4" />
+	</object>
+	
+	<object Name="SBI_BionicHeart_2" Inherits="BaseCyberneticsEquipment_6point">
+		<part Name="Physics" Weight="2" />
+		<part Name="Description" Short="An apparatus-in-chromium that pumps blood in smooth waves rather than the frantic beating of carcass-grown muscle tissue." />
+		<part Name="Render" DisplayName="{{Y|bionic heart2}}" Tile="Items/sw_bionicheart.bmp" TileColor="&amp;r" DetailColor="C" />
+		<part Name="CyberneticsBaseItem" Slots="Body" Cost="6" BehaviorDescription="+4 Toughness" />
+		<part Name="CyberneticsStatModifier" Stats="Toughness:4" />
+		<part Name="CyberneticsEffectSuppressor" Effects="CardiacArrest" />
+	</object>
+
+
+</objects>
