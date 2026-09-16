@@ -1,0 +1,12 @@
+<populations>
+	<population Name="Implants_4PlusPointers" Load="Merge">
+		<group Name="Items" Style="pickone" Load="Merge">
+			<!-- 9 point -->
+			<object Blueprint="SBI_BionicHands_2" Number="1" Weight="10" />
+			<object Blueprint="SBI_BionicArm_2" Number="1" Weight="10" />
+			<object Blueprint="SBI_BeautifulVisage_2" Number="1" Weight="10" />
+			<object Blueprint="SBI_DopamineSynth_2" Number="1" Weight="10" />
+			<object Blueprint="SBI_BionicHeart_2" Number="1" Weight="10" />
+		</group>
+	</population>	
+</populations>
