@@ -46,6 +46,7 @@
 		<part Name="CyberneticsBaseItem" Slots="Body" Cost="9" BehaviorDescription="+6 Toughness" />
 		<part Name="CyberneticsStatModifier" Stats="Toughness:6" />
 		<part Name="CyberneticsEffectSuppressor" Effects="CardiacArrest" />
+		<tag Name="BionicOrgan" />
 	</object>
 
 
