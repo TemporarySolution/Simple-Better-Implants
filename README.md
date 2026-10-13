@@ -1,8 +1,8 @@
-# What is this
-**Simple-Better-Implants** is a mod created and published in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802560036) for a game named ["Caves of Qud"](https://store.steampowered.com/app/333640/Caves_of_Qud/).
+# Simple-Better-Implants
+A mod created and published in [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3802560036) for a game named ["Caves of Qud"](https://store.steampowered.com/app/333640/Caves_of_Qud/).
 
 This mod creates second-tier versions of the stat implants and adds them to the game world.
-## Mod Sprites and Example
+## Sprites and Example
 Implant icons:
 
 <img width="761" height="538" alt="Workshop_Implant_Demo" src="https://github.com/user-attachments/assets/7d3bf799-8897-4598-9191-bf87da51dcd7" />
